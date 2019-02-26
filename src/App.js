@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import me from "./samcat.jpg";
+import {mail, github, linkedin} from './buttons';
 
 class App extends Component {
   render() {
@@ -47,8 +48,20 @@ class App extends Component {
               <li>exercise</li>
               <li>reading novels</li>
               <li>The Met and other museums</li>
+              <li>teaching</li>
               <li>Learning and building stuff with people</li>
             </ul>
+          </div>
+          <div className="toolbar">
+            <button>
+              <img className="button" src={mail} />
+            </button>
+            <button>
+              <img className="button" src={linkedin} />
+            </button>
+            <button>
+              <img className="button" src={github} />
+            </button>
           </div>
         </div>
       </div>
