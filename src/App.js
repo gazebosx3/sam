@@ -48,21 +48,15 @@ class App extends Component {
               <li>exercise</li>
               <li>reading novels</li>
               <li>The Met and other museums</li>
-              <li>teaching</li>
               <li>Learning and building stuff with people</li>
             </ul>
           </div>
           <div className="toolbar">
-            <button>
-              <img className="button" src={mail} />
-            </button>
-            <button>
-              <img className="button" src={linkedin} />
-            </button>
-            <button>
-              <img className="button" src={github} />
-            </button>
+              <a href='href="mailto:samuelglass@gmail.com"'><img alt='mail' className='image' src={mail} /></a>
+              <a href='https://www.linkedin.com/in/sam-glass/'><img alt='linkedin' className='image'  src={linkedin} /></a>
+              <a href='https://github.com/gazebosx3'><img  alt='github'  className='image'  src={github} /></a>
           </div>
+
         </div>
       </div>
     );

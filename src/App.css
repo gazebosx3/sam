@@ -11,12 +11,16 @@
   }
 }
 
-.button {
-  height: 20px;
+
+
+.image {
+  height: 60px;;
 }
 
 .toolbar {
-  display: flex;
+  display: inline-block;
+  /* justify-content: center; */
+  border: 1px solid black;
 }
 
 .tech-stuff {
@@ -30,11 +34,7 @@
   margin: 2em;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+
+
+
+
