@@ -1,8 +1,7 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import me from "./samcat.jpg";
-import {mail, github, linkedin} from './buttons';
+import {mail, github, linkedin, resume} from './buttons';
 
 class App extends Component {
   render() {

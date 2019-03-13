@@ -10,6 +10,12 @@
     justify-content: space-around;
   }
 
+  .App-logo {
+    height: 90vmin;
+    margin: 2em;
+
+  }
+
   .tech-stuff {
     margin: 10px;
     display: flex;
@@ -40,5 +46,7 @@
 
 .App-logo {
   height: 90vmin;
-  margin: 2em;
+  margin-right: -9em;
+  margin-top: 2em;
+
 }
