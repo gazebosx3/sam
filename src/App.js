@@ -14,40 +14,40 @@ class App extends Component {
           Some tech things I like:
           <div className="tech-stuff">
             <ul>
-              <div>ES6</div>
-              <div>Node.js</div>
-              <div>React </div>
-              <div>Redux</div>
-              <div>Angular</div>
+              <li>ES6</li>
+              <li>Node.js</li>
+              <li>React </li>
+              <li>Redux</li>
+              <li>Angular</li>
             </ul>
             <ul>
-              <div>AWS (I'm certified!)</div>
-              <div>SQL</div>
-              <div>HTML/CSS</div>
-              <div>Postgres</div>
-              <div>Sequedivze</div>
+              <li>AWS (I'm certified!)</li>
+              <li>SQL</li>
+              <li>HTML/CSS</li>
+              <li>Postgres</li>
+              <li>Sequelize</li>
             </ul>
             <ul>
-              <div>Docker</div>
-              <div>GraphQL</div>
-              <div>Kafka</div>
-              <div>MySQL</div>
-              <div>TypeORM</div>
+              <li>Docker</li>
+              <li>GraphQL</li>
+              <li>Kafka</li>
+              <li>MySQL</li>
+              <li>TypeORM</li>
             </ul>
             <ul>
-              <div>Mocha/Chai</div>
-              <div>Jasmine</div>
-              <div>Git</div>
+              <li>Mocha/Chai</li>
+              <li>Jasmine</li>
+              <li>Git</li>
             </ul>
           </div>
           <div>
             Some non-tech things I like:
             <ul>
-              <div>cats (duh)</div>
-              <div>exercise</div>
-              <div>reading novels</div>
-              <div>The Met and other museums</div>
-              <div>Building stuff with people</div>
+              <li>cats (duh)</li>
+              <li>exercise</li>
+              <li>reading novels</li>
+              <li>The Met and other museums</li>
+              <li>Building stuff with people</li>
             </ul>
           </div>
           <div className="toolbar">
