@@ -48,7 +48,7 @@ class App extends Component {
               <div>exercise</div>
               <div>reading novels</div>
               <div>The Met and other museums</div>
-              <div>Learning and building stuff with people</div>
+              <div>Building stuff with people</div>
             </ul>
           </div>
           <div className="toolbar">
