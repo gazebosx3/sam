@@ -15,40 +15,40 @@ class App extends Component {
           Some tech things I like:
           <div className="tech-stuff">
             <ul>
-              <li>ES6</li>
-              <li>Node.js</li>
-              <li>React </li>
-              <li>Redux</li>
-              <li>Angular</li>
+              <div>ES6</div>
+              <div>Node.js</div>
+              <div>React </div>
+              <div>Redux</div>
+              <div>Angular</div>
             </ul>
             <ul>
-              <li>AWS (I'm certified!)</li>
-              <li>SQL</li>
-              <li>HTML/CSS</li>
-              <li>Postgres</li>
-              <li>Sequelize</li>
+              <div>AWS (I'm certified!)</div>
+              <div>SQL</div>
+              <div>HTML/CSS</div>
+              <div>Postgres</div>
+              <div>Sequedivze</div>
             </ul>
             <ul>
-              <li>Docker</li>
-              <li>GraphQL</li>
-              <li>Kafka</li>
-              <li>MySQL</li>
-              <li>TypeORM</li>
+              <div>Docker</div>
+              <div>GraphQL</div>
+              <div>Kafka</div>
+              <div>MySQL</div>
+              <div>TypeORM</div>
             </ul>
             <ul>
-              <li>Mocha/Chai</li>
-              <li>Jasmine</li>
-              <li>Git</li>
+              <div>Mocha/Chai</div>
+              <div>Jasmine</div>
+              <div>Git</div>
             </ul>
           </div>
           <div>
             Some non-tech things I like:
             <ul>
-              <li>cats (duh)</li>
-              <li>exercise</li>
-              <li>reading novels</li>
-              <li>The Met and other museums</li>
-              <li>Learning and building stuff with people</li>
+              <div>cats (duh)</div>
+              <div>exercise</div>
+              <div>reading novels</div>
+              <div>The Met and other museums</div>
+              <div>Learning and building stuff with people</div>
             </ul>
           </div>
           <div className="toolbar">
