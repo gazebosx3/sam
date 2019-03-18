@@ -3,7 +3,7 @@
   justify-content: space-around;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 1250px) {
   .App {
     display: inline-block;
     flex-direction: column;

@@ -28,16 +28,18 @@ class App extends Component {
               <li>Sequelize</li>
             </ul>
             <ul>
+              <li>Java</li>
+              <li>Spring</li>
               <li>Docker</li>
               <li>GraphQL</li>
               <li>Kafka</li>
-              <li>MySQL</li>
-              <li>TypeORM</li>
             </ul>
             <ul>
               <li>Mocha/Chai</li>
               <li>Jasmine</li>
               <li>Git</li>
+              <li>MySQL</li>
+              <li>TypeORM</li>
             </ul>
           </div>
           <div>
