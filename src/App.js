@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import "./App.css";
 import me from "./samcat.jpg";
-import {mail, github, linkedin, resume} from './buttons';
+import {mail, github, linkedin, resume, resumePdf} from './buttons';
 
 class App extends Component {
   render() {
@@ -51,6 +51,7 @@ class App extends Component {
             </ul>
           </div>
           <div className="toolbar">
+              <a href={resumePdf}><img alt='resume' className='image' src={resume} /></a>
               <a href='href="mailto:samuelglass@gmail.com"'><img alt='mail' className='image' src={mail} /></a>
               <a href='https://www.linkedin.com/in/sam-glass/'><img alt='linkedin' className='image'  src={linkedin} /></a>
               <a href='https://github.com/gazebosx3'><img  alt='github'  className='image'  src={github} /></a>
@@ -59,7 +60,7 @@ class App extends Component {
         </div>
       </div>
     );
-  }
+  } 
 }
 
 export default App;
